@@ -74,30 +74,30 @@ body {
 /* Label
 --------------------------------------------*/
 .label-default {
-  background-color: #c61334;
+  background-color: #0044CC;
   border-radius: 0;
 }
 /* Tooltip
 --------------------------------------------*/
 .tooltip .tooltip-inner {
-  background-color: #c61334;
+  background-color: #0044CC;
   padding: 5px 10px;
   font-size: 18px;
 }
 .tooltip .tooltip-arrow {
-  border-top-color: #c61334 !important;
+  border-top-color: #0044CC !important;
 }
 .my-tooltip {
-  border-bottom: 1px dotted #c61334;
-  color: #c61334;
+  border-bottom: 1px dotted #0044CC;
+  color: #0044CC;
 }
 /* Links
 --------------------------------------------*/
 a {
-  color: #c61334;
+  color: #0044CC;
 }
 a:hover {
-  color: #c61334;
+  color: #0044CC;
   text-decoration: none;
 }
 /* Scroll to Top Button 
@@ -137,7 +137,7 @@ header .header-info .contact {
   margin-top: 10px;
 }
 header .header-info .language-switch {
-  background-color: #c61334;
+  background-color: #0044CC;
   margin-left: 24px;
 }
 header .header-info .language-switch a {
@@ -185,8 +185,7 @@ header .navbar-default .navbar-collapse {
 }
 header .navbar-default .navbar-nav > .active > a {
   background-color: #fff;
-  border: 2px solid #b8b6b6;
-  color: #716d6e;
+  color: #0044CC;
   background-color: transparent;
 }
 header .navbar-default .navbar-nav > li > a {
@@ -198,7 +197,7 @@ header .navbar-default .navbar-nav > li > a {
 header .navbar-default .navbar-nav > li > a:hover {
   background-color: #fff;
   border: 2px solid #fff;
-  background-color: #e7e7e7;
+  background-color: rgba(169,68,66,0.38);
   color: #716d6e;
 }
 header .navbar-default .navbar-nav .dropdown-menu {
@@ -250,7 +249,7 @@ header.large .brand {
   height: 600px;
   padding: 60px 0;
   background-color: #303131;
-  background: linear-gradient(to bottom, #303131 0%, #4d4f4f 50%, #303131 100%);
+  background: linear-gradient(to bottom, #A94442 0%, #4d4f4f 50%, #303131 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@mainColor', endColorstr='@mainColor', GradientType=0);
 }
 #teaser .reservation-form-shadow {
@@ -266,16 +265,16 @@ header.large .brand {
   padding: 10px 15px;
 }
 #teaser form ::-webkit-input-placeholder {
-  color: #c61334 !important;
+  color: #0044CC !important;
 }
 #teaser form :-moz-placeholder {
-  color: #c61334 !important;
+  color: #0044CC !important;
 }
 #teaser form ::-moz-placeholder {
-  color: #c61334 !important;
+  color: #0044CC !important;
 }
 #teaser form :-ms-input-placeholder {
-  color: #c61334 !important;
+  color: #0044CC !important;
 }
 #teaser form .styled-select-car {
   border: 2px solid #efe9e9;
@@ -321,7 +320,7 @@ header.large .brand {
 }
 #teaser form .input-group input {
   border-radius: 0;
-  color: #c61334;
+  color: #0044CC;
   font-size: 16px;
   padding-left: 15px;
   box-shadow: none;
@@ -381,11 +380,11 @@ header.large .brand {
   -webkit-appearance: none;
   padding: 10px 10px;
   height: 39px;
-  color: #c61334;
+  color: #0044CC;
 }
 #teaser form .submit {
   width: 100%;
-  background-color: #c61334;
+  background-color: #0044CC;
   color: #fff;
   border: none;
   border-radius: 0;
@@ -399,7 +398,7 @@ header.large .brand {
   transition: 0.2s;
 }
 #teaser form .submit:hover {
-  background-color: #716d6e;
+  background-color: #A94442;
 }
 #teaser .title {
   color: #fff;
@@ -459,7 +458,7 @@ header.large .brand {
 #teaser-blog {
   height: 145px;
   padding: 60px 0;
-  background-color: #c61334;
+  background: linear-gradient(to right, #0044CC ,#A94442 );
 }
 #teaser-blog .title {
   color: #fff;
@@ -507,7 +506,7 @@ header.large .brand {
 }
 .blog-posts .blog-post blockquote {
   margin: 35px 27px;
-  border-left: 6px solid #c61334;
+  border-left: 6px solid #0044CC;
   font-size: 16px;
   line-height: 1.7;
   font-style: italic;
@@ -523,7 +522,7 @@ header.large .brand {
 }
 .single-post-tags li:first-of-type {
   font-weight: bold;
-  color: #c61334;
+  color: #0044CC;
 }
 .single-post-tags li a {
   color: #716d6e;
@@ -533,7 +532,7 @@ header.large .brand {
   float: left;
   width: 130px;
   padding-bottom: 2px;
-  border-bottom: 7px solid #c61334;
+  border-bottom: 7px solid #0044CC;
 }
 .author-post .author-content {
   margin-left: 155px;
@@ -553,7 +552,7 @@ header.large .brand {
 }
 .blog-posts .blog-post .post-attachment {
   padding-bottom: 2px;
-  border-bottom: 10px solid #c61334;
+  border-bottom: 10px solid #0044CC;
 }
 .blog-posts .blog-post .post-content-text {
   margin-top: 8px;
@@ -590,7 +589,7 @@ header.large .brand {
 .blog-posts .pagination-list li {
   display: inline-block;
   padding: 0 5px;
-  color: #c61334;
+  color: #0044CC;
 }
 .blog-posts .pagination-list li a {
   color: #716d6e;
@@ -620,7 +619,7 @@ header.large .brand {
   padding: 0;
 }
 .comment-section .comment-img {
-  border-bottom: 7px solid #c61334;
+  border-bottom: 7px solid #0044CC;
   display: inline-block;
   float: left;
   padding-bottom: 2px;
@@ -681,7 +680,7 @@ header.large .brand {
   font-size: 14px !important;
 }
 .comment-section .comment-respond form .submit {
-  background-color: #c61334;
+  background-color: #0044CC;
   color: #fff;
   border: none;
   border-radius: 0;
@@ -720,7 +719,7 @@ header.large .brand {
   transition: background 0.4s ease-in-out;
 }
 .blog-posts .sidebar .widget ul li i {
-  color: #c61334;
+  color: #0044CC;
   margin: 0 7px;
 }
 .blog-posts .sidebar .widget ul li a {
@@ -734,7 +733,7 @@ header.large .brand {
 }
 .blog-posts .sidebar .widget .tagcloud a {
   color: #fff;
-  background-color: #c61334;
+  background-color: #0044CC;
   padding: 6px 20px;
   display: inline-block;
   margin: 4px 4px 0 0;
@@ -748,20 +747,20 @@ header.large .brand {
   clear: both;
 }
 .blog-posts .sidebar .search-widget form ::-webkit-input-placeholder {
-  color: #c61334 !important;
+  color: #0044CC !important;
 }
 .blog-posts .sidebar .search-widget form :-moz-placeholder {
-  color: #c61334 !important;
+  color: #0044CC !important;
 }
 .blog-posts .sidebar .search-widget form ::-moz-placeholder {
-  color: #c61334 !important;
+  color: #0044CC !important;
 }
 .blog-posts .sidebar .search-widget form :-ms-input-placeholder {
-  color: #c61334 !important;
+  color: #0044CC !important;
 }
 .blog-posts .sidebar .search-widget form .input-group input {
   border-radius: 0;
-  color: #c61334;
+  color: #0044CC;
   font-size: 16px;
   padding-left: 15px;
   box-shadow: none;
@@ -796,7 +795,7 @@ header.large .brand {
   padding-bottom: 45px;
 }
 .blog-posts.error-page .container {
-  border-bottom: 10px solid #c61334;
+  border-bottom: 10px solid #0044CC;
 }
 .blog-posts.error-page h2 {
   font-size: 24px;
@@ -829,20 +828,20 @@ header.large .brand {
   margin-top: 20px;
 }
 .blog-posts.error-page form ::-webkit-input-placeholder {
-  color: #c61334 !important;
+  color: #0044CC !important;
 }
 .blog-posts.error-page form :-moz-placeholder {
-  color: #c61334 !important;
+  color: #0044CC !important;
 }
 .blog-posts.error-page form ::-moz-placeholder {
-  color: #c61334 !important;
+  color: #0044CC !important;
 }
 .blog-posts.error-page form :-ms-input-placeholder {
-  color: #c61334 !important;
+  color: #0044CC !important;
 }
 .blog-posts.error-page form .input-group input {
   border-radius: 0;
-  color: #c61334;
+  color: #0044CC;
   font-size: 16px;
   padding-left: 15px;
   box-shadow: none;
@@ -893,7 +892,7 @@ header.large .brand {
   height: 4px;
   width: 135px;
   display: block;
-  background-color: #c61334;
+  background: linear-gradient(to right, #0044CC ,#A94442 );
   margin: 0 auto;
 }
 #services .service-box {
@@ -904,7 +903,7 @@ header.large .brand {
 #services .service-box .service-icon {
   height: 43px;
   width: 43px;
-  background-color: #c61334;
+  background-color: #0044CC;
   color: #fff;
   text-align: center;
   line-height: 40px;
@@ -928,7 +927,7 @@ header.large .brand {
 /* Newsletter
 --------------------------------------------*/
 #newsletter {
-  background-color: #c61334;
+  background: linear-gradient(to right, #0044CC ,#A94442 );
   margin-top: 90px;
   padding: 90px 0;
 }
@@ -991,7 +990,7 @@ header.large .brand {
 #newsletter .social-icons ul li a {
   height: 55px;
   width: 65px;
-  background-color: #c61334;
+  background-color: #0044CC;
   display: block;
   margin-left: 10px;
   text-align: center;
@@ -1061,7 +1060,7 @@ header.large .brand {
   width: 50%;
   height: 40px;
   display: block;
-  background-color: #716d6e;
+  background-color:rgba(0,68,204,0.53);
   text-align: center;
   float: left;
   color: #fff;
@@ -1159,7 +1158,7 @@ header.large .brand {
   font-size: 18px;
 }
 #vehicles .reserve-button {
-  background-color: #c61334;
+  background-color: #0044CC;
   color: #fff;
   display: block;
   height: 50px;
@@ -1172,7 +1171,7 @@ header.large .brand {
   transition: .2s;
 }
 #vehicles .reserve-button:hover {
-  background-color: #716d6e;
+  background-color: #A94442;
 }
 #vehicles .reserve-button span {
   margin-right: 7px;
@@ -1186,9 +1185,11 @@ header.large .brand {
 #reviews .stars {
   font-size: 27px;
   margin-bottom: 10px;
+  color: rgba(169,68,66,0.81);
 }
 #reviews .stars .big {
   font-size: 36px;
+  color: #A94442;
 }
 #reviews .review {
   font-size: 24px;
@@ -1197,7 +1198,7 @@ header.large .brand {
 #reviews .author {
   font-size: 18px;
   font-weight: 900;
-  color: #c61334;
+  color: #0044CC;
   margin-top: 10px;
 }
 #reviews .carousel-indicators {
@@ -1239,7 +1240,7 @@ header.large .brand {
   position: relative;
 }
 #locations .location-select {
-  background-color: #c61334;
+  background: linear-gradient(to right, #0044CC ,#A94442 );
   height: 93px;
 }
 #locations .location-select h2 {
@@ -1280,7 +1281,7 @@ header.large .brand {
   top: -70px;
 }
 #locations .map h2 {
-  color: #c61334;
+  color: #0044CC;
   padding: 0 10px;
   margin-bottom: 4px;
 }
@@ -1293,7 +1294,7 @@ header.large .brand {
   height: 0;
   border-left: 37px solid transparent;
   border-right: 37px solid transparent;
-  border-top: 37px solid #c61334;
+  border-top: 37px solid #0044CC;
   margin: 0 auto;
 }
 /* Information
@@ -1330,7 +1331,7 @@ header.large .brand {
 #information .btn {
   font-size: 24px;
   font-weight: 900;
-  background-color: #c61334;
+  background-color: #0044CC;
   color: #fff;
   border-radius: 0;
   border: none;
@@ -1341,13 +1342,13 @@ header.large .brand {
   transition: .2s;
 }
 #information .btn:hover {
-  background-color: #716d6e;
+  background-color: #A94442;
 }
 #information .btn-gray {
-  background-color: #716d6e;
+  background-color: #A94442;
 }
 #information .btn-gray:hover {
-  background-color: #c61334;
+  background-color: #0044CC;
 }
 #information .video {
   position: relative;
@@ -1385,7 +1386,7 @@ header.large .brand {
   height: 4px;
   width: 135px;
   display: block;
-  background-color: #c61334;
+  background: linear-gradient(to right, #0044CC ,#A94442 );
   margin: 0 auto;
 }
 #partners p {
@@ -1412,7 +1413,7 @@ header.large .brand {
   font-weight: 900;
 }
 #contact .contact-info .highlight {
-  color: #c61334;
+  color: #0044CC;
 }
 #contact form .form-group {
   margin-bottom: 20px;
@@ -1466,7 +1467,7 @@ header.large .brand {
 #contact form .submit-message {
   font-size: 24px;
   font-weight: 900;
-  background-color: #c61334;
+  background-color: #0044CC;
   color: #fff;
   border: none;
   line-height: 47px;
@@ -1477,7 +1478,7 @@ header.large .brand {
   border-radius: 0;
 }
 #contact form .submit-message:hover {
-  background-color: #716d6e;
+  background-color: #A94442; 
 }
 #contact .contact-box-title {
   font-size: 18px;
@@ -1489,10 +1490,10 @@ header.large .brand {
 }
 #contact .contact-box .highlight {
   font-weight: bold;
-  color: #c61334;
+  color: #0044CC;
 }
 #contact .contact-box img {
-  border: 1px solid #c61334;
+  border: 1px solid #0044CC;
   float: left;
   margin-right: 20px;
 }
@@ -1501,7 +1502,7 @@ header.large .brand {
   font-weight: bold;
 }
 #contact .contact-box-border {
-  background-color: #c61334;
+  background: linear-gradient(to right, #0044CC ,#A94442 );
   height: 10px;
   margin-top: 1px;
   margin-bottom: 8px;
@@ -1568,7 +1569,7 @@ footer .footer-nav li a {
 }
 #checkoutModal .modal-header {
   color: #fff;
-  background-color: #c61334;
+  background: linear-gradient(to right, #0044CC ,#A94442 );
   border-bottom: none;
 }
 #checkoutModal .modal-title {
@@ -1595,7 +1596,7 @@ footer .footer-nav li a {
 #checkoutModal .modal-body h3 {
   margin: 0;
   font-size: 18px;
-  color: #c61334;
+  color: #0044CC;
   font-weight: bold;
   margin-bottom: 25px;
 }
@@ -1764,7 +1765,7 @@ footer .footer-nav li a {
 #checkoutModal .modal-footer .btn {
   font-size: 24px;
   font-weight: 900;
-  background-color: #c61334;
+  background-color: #0044CC;
   color: #fff;
   border-radius: 0;
   height: 47px;
@@ -1782,13 +1783,21 @@ footer .footer-nav li a {
   border-color: #ffd992;
 }
 #checkoutModal .modal-footer .btn-yellow button {
-  background-color: #c61334;
+  background-color: #0044CC;
 }
+
+#checkoutModal .modal-footer .btn-yellow button:hover  {
+  background-color: #A94442;
+}
+
 #checkoutModal .modal-footer .btn-gray {
   border-color: #b8b6b6;
 }
 #checkoutModal .modal-footer .btn-gray button {
   background-color: #716d6e;
+}
+#checkoutModal .modal-footer .btn-gray button:hover {
+  background-color: ##555;
 }
 /* Start Media Queries
 ------------------------------------------------*/
@@ -2227,4 +2236,12 @@ h6 {
   font-family: 'Monofett', cursive;
   font-size: 45px;
   white-space: nowrap;
+}
+
+#grad {
+  background: #A94442; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left, #A94442 , yellow); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, #A94442, yellow); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, #A94442, yellow); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, #A94442 , yellow); /* Standard syntax */
 }
