@@ -1,0 +1,17 @@
+var locations = [
+{ value: "Cape Town International Airport"},
+{ value: "Cape Town Downtown/Delivery"},
+{ value: "Johannesburg International Airport"},
+{ value: "Johannesburg Downtown/Delivery"},
+{ value: "Lanseria Airport"},
+{ value: "Durban International Airport"},
+{ value: "Port Elizabeth Airport"},
+{ value: "George Airport"},
+{ value: "East London Airport"},
+{ value: "Bloemfontein Airport"},
+{ value: "Richards Bay Airport"},
+{ value: "Pinetown Downtown/Delivery"},
+{ value: "Polokwane Airport"},
+{ value: "Nelspruit Airport"},
+{ value: "Kimberley Airport"},
+];
